@@ -15,7 +15,7 @@
 - 🇰🇷 Based out of Seoul, South Korea
 - 🏢 Data Engineer Intern at **[Flitto](https://www.flitto.com)**
 - 🎧 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)**
-- 🏫 Undergraduate at **[Korea University, Computer Science & Engineering](https://info.korea.edu/en_info/index.do)**
+- 🏫 CS Undergraduate at **[Korea University](https://info.korea.edu/en_info/index.do)**
 - 🗂 Passionate about **Data** and **Natural Languages**
 - 🌱 Currently exploring AI-powered product features
 - 🦜 Proud parent of 2 cockatiels (and a step father to a cat)
