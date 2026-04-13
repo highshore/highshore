@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Kyle!&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20and%20Mobile%20Developer%20%7C%20Seoul%2C%20South%20Korea&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I%27m%20Sookyum%20(Kyle)&fontSize=42&fontAlignY=35&animation=fadeIn&desc=I%27m%20an%20Engineer%20passionate%20about%20Data%20and%20Natural%20Languages.&descAlignY=55&descSize=16)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-kyle-kim)
 [![Flitto](https://img.shields.io/badge/Flitto-FF6B35?style=flat-square&logoColor=white)](https://www.flitto.com)
@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🏢 Software Developer at **[Flitto](https://www.flitto.com)** — Seoul, South Korea
-- 🦜 Python & TypeScript enthusiast building web & mobile apps
+- 🗂 Passionate about **Data** and **Natural Language Processing**
 - 📱 Flutter / Dart mobile dev with Firebase integration
 - 🌱 Currently exploring AI-powered product features
 - 🐦 Proud cockatiel parent
