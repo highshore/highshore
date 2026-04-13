@@ -1,9 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Kyle!%20👋&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Seoul%2C%20South%20Korea&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Kyle!&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20and%20Mobile%20Developer%20%7C%20Seoul%2C%20South%20Korea&descAlignY=55&descSize=18)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-kyle-kim)
-[![Flitto](https://img.shields.io/badge/Flitto-FF6B35?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)](https://www.flitto.com)
+[![Flitto](https://img.shields.io/badge/Flitto-FF6B35?style=flat-square&logoColor=white)](https://www.flitto.com)
 ![Profile views](https://komarev.com/ghpvc/?username=highshore&style=flat-square&color=blue)
 
 </div>
@@ -54,8 +54,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=highshore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=highshore&layout=donut&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=highshore&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=highshore&theme=tokyo-night&hide_border=true)](https://github.com/highshore)
 
 </div>
 
