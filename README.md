@@ -14,7 +14,9 @@
 
 - 🇰🇷 Based out of Seoul, South Korea
 - 🏢 Data Engineer Intern at **[Flitto](https://www.flitto.com)**
+  - Flitto provides AI Translation & pivoted towards AI Training/Eval Data
 - 🎧 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)**
+  - Sendbird specializes in Chat APIs & AI Agents for Support Desk
 - 🏫 CS Undergraduate at **[Korea University](https://info.korea.edu/en_info/index.do)**
 - 🗂 Passionate about **Data** and **Natural Languages**
 - 🌱 Currently exploring AI-powered product features
