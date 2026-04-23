@@ -45,7 +45,7 @@
 | [🗜 exaone-compression](https://github.com/highshore/exaone-compression) | Quantization and LoRA distillation toolkit for the EXAONE Korean LLM, with MMLU/BoolQ benchmarking across 8 model variants | Python · PyTorch |
 | [🤖 realthon-ai-crawler](https://github.com/highshore/realthon-ai-crawler) | GCP-deployed AI notification service — Gemini scores relevance of university notices and batches alerts via Kakao | Python · GCP · Gemini |
 | [🧬 aml_protein_vae](https://github.com/highshore/aml_protein_vae) | Variational Autoencoder for protein sequence analysis using VHSE chemical-property embeddings | Python · PyTorch |
-| [☕ one_cup_eng](https://github.com/highshore/one_cup_eng) | Daily English learning app | TypeScript |
+| [☕ 1cup-web](https://github.com/highshore/1cup-web) | NextJS + Firebase web app for a business English club in Seoul | TypeScript · Next.js · Firebase |
 | [🗣 rumi_talk](https://github.com/highshore/rumi_talk) | Flutter chat app with Firebase auth & Firestore | Dart · Flutter · Firebase |
 
 ---
