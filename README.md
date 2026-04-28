@@ -16,8 +16,7 @@
 - 🏢 Data Engineer Intern at **[Flitto](https://www.flitto.com)**
 - 🎧 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)**
 - 🏫 CS Undergraduate at **[Korea University](https://info.korea.edu/en_info/index.do)**
-- 🗂 Passionate about **Data** and **Natural Languages**
-- 🌱 Currently exploring AI-powered product features
+- 🗂 Passionate about **Data & Languages**
 - 🦜 Proud parent of 2 cockatiels (and a step father to a cat)
 
 ---
