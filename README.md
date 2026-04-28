@@ -12,8 +12,8 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Data Engineer at **[Flitto](https://www.flitto.com)** — Seoul, South Korea
-- 🗂 Passionate about **Data** and **Natural Language Processing**
+- 🏢 Software Developer at **[Flitto](https://www.flitto.com)** — Seoul, South Korea
+- 🦜 Python & TypeScript enthusiast building web & mobile apps
 - 📱 Flutter / Dart mobile dev with Firebase integration
 - 🌱 Currently exploring AI-powered product features
 - 🐦 Proud cockatiel parent
