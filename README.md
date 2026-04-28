@@ -12,11 +12,13 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Software Developer at **[Flitto](https://www.flitto.com)** — Seoul, South Korea
-- 🦜 Python & TypeScript enthusiast building web & mobile apps
-- 📱 Flutter / Dart mobile dev with Firebase integration
+- 🇰🇷 Based out of Seoul, South Korea
+- 🏢 Data Engineer Intern at **[Flitto](https://www.flitto.com)**
+- 🎧 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)**
+- 🏫 CS Undergraduate at **[Korea University](https://info.korea.edu/en_info/index.do)**
+- 🗂 Passionate about **Data** and **Natural Languages**
 - 🌱 Currently exploring AI-powered product features
-- 🐦 Proud cockatiel parent
+- 🦜 Proud parent of 2 cockatiels (and a step father to a cat)
 
 ---
 
@@ -41,12 +43,12 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🔬 1cup-article-pipeline](https://github.com/highshore/1cup-article-pipeline) | LangGraph NLP pipeline — enriches news articles with CEFR vocab, summaries, and Korean translation using local LLMs | Python · LangGraph · LLM |
-| [🗜 exaone-compression](https://github.com/highshore/exaone-compression) | Quantization and LoRA distillation toolkit for the EXAONE Korean LLM, with MMLU/BoolQ benchmarking across 8 model variants | Python · PyTorch |
-| [🤖 realthon-ai-crawler](https://github.com/highshore/realthon-ai-crawler) | GCP-deployed AI notification service — Gemini scores relevance of university notices and batches alerts via Kakao | Python · GCP · Gemini |
-| [🧬 aml_protein_vae](https://github.com/highshore/aml_protein_vae) | Variational Autoencoder for protein sequence analysis using VHSE chemical-property embeddings | Python · PyTorch |
-| [☕ 1cup-web](https://github.com/highshore/1cup-web) | NextJS + Firebase web app for a business English club in Seoul | TypeScript · Next.js · Firebase |
 | [🗣 rumi_talk](https://github.com/highshore/rumi_talk) | Flutter chat app with Firebase auth & Firestore | Dart · Flutter · Firebase |
+| [☕ one_cup_eng](https://github.com/highshore/one_cup_eng) | Daily English learning app | TypeScript |
+| [🍹 voca_drink](https://github.com/highshore/voca_drink) | Vocabulary builder with a twist | TypeScript |
+| [🐦 tweet-challenge](https://github.com/highshore/tweet-challenge) | Tweet-style writing challenge | Python |
+| [🧳 Nomad](https://github.com/highshore/Nomad) | Nomad lifestyle project | Python |
+| [📱 LTB_App](https://github.com/highshore/LTB_App) | Mobile utility app | Dart |
 
 ---
 
