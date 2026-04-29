@@ -42,6 +42,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=flat-square&logoColor=white)
 
@@ -50,6 +54,7 @@
 ![Korean](https://img.shields.io/badge/🇰🇷_Korean-Native-CD2E3A?style=flat-square&logoColor=white)
 ![English](https://img.shields.io/badge/🇬🇧_English-CEFR%20C2-012169?style=flat-square&logoColor=white)
 ![French](https://img.shields.io/badge/🇫🇷_French-Duolingo-58CC02?style=flat-square&logoColor=white)
+![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-Duolingo-BC002D?style=flat-square&logoColor=white)
 ---
 
 ## 📌 Featured Projects
