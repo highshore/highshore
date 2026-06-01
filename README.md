@@ -11,11 +11,12 @@
 
 ## 👨‍💻 About Me
 
+- 🗂 I build reliable AI agents for database systems and distributed infrastructure.
 - 🇰🇷 Based out of Seoul, South Korea
-- 🏢 Software Engineer Intern, Data at **[Flitto](https://www.flitto.com)**
-- 🎧 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)**
+- 🏢 AI Agent Engineer Intern, **[TBD](https://www.github.com/highshore)**
+- 🏢 Data Engineer Intern, **[Flitto](https://www.flitto.com)**
+- 🏢 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)**
 - 🏫 CS Undergraduate at **[Korea University](https://info.korea.edu/en_info/index.do)**
-- 🗂 Passionate about **Data & Languages**
 - 🦜 Proud parent of 2 cockatiels (and a step father to a cat)
 
 ---
