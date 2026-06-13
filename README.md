@@ -13,8 +13,8 @@
 
 - 🗂 I build reliable AI agents for database systems and distributed infrastructure.
 - 🇰🇷 Based out of Seoul, South Korea
-- 🏢 AI Agent Engineer Intern, **[TBD](https://www.github.com/highshore)** (Jul 2026 ~ )
-- 🏢 Data Engineer Intern, **[Flitto](https://www.flitto.com)** (Jan 2026 ~ Jun 2026)
+- 🏢 Software Engineer Intern (AI Agent), **[TBD](https://www.github.com/highshore)** (Jul 2026 ~ )
+- 🏢 Software Engineer Intern (Data), **[Flitto](https://www.flitto.com)** (Jan 2026 ~ Jun 2026)
 - 🏢 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)** (Jul 2020 ~ Oct 2023)
 - 🏫 Computer Science Undergraduate at **[Korea University](https://info.korea.edu/en_info/index.do)**
 - 🦜 Proud parent of 2 cockatiels (and a step father to a cat)
