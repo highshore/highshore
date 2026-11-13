@@ -13,8 +13,8 @@
 
 - 🗂 I build reliable AI agents for database systems and distributed infrastructure.
 - 🇰🇷 Based out of Seoul, South Korea
-- 🏢 Software Engineer Intern (AI Agent), **[SAP Labs](https://www.sap.com/korea/about/labs-korea.html)** (Jul 2026 ~ )
-- 🏢 Software Engineer Intern (Data), **[Flitto](https://www.flitto.com)** (Jan 2026 ~ Jun 2026)
+- 🏢 Software Engineer Intern, **[SAP Labs](https://www.sap.com/korea/about/labs-korea.html)** (Jul 2026 ~ )
+- 🏢 Software Engineer Intern, **[Flitto](https://www.flitto.com)** (Jan 2026 ~ Jun 2026)
 - 🏢 Interpreter & Translator at **[CJCJ](https://www.cj.co.kr/)** (Oct 2023 ~ Aug 2024)
 - 🏢 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)** (Jul 2020 ~ Oct 2023)
 - 🏢 Interpreter & Translator at **[ROK-US Combined Forces Command](https://en.wikipedia.org/wiki/ROK/US_Combined_Forces_Command)** (Nov 2017 ~ Jun 2019)
