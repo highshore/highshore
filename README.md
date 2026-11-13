@@ -15,6 +15,7 @@
 - 🇰🇷 Based out of Seoul, South Korea
 - 🏢 Software Engineer Intern (AI Agent), **[SAP Labs](https://www.sap.com/korea/about/labs-korea.html)** (Jul 2026 ~ )
 - 🏢 Software Engineer Intern (Data), **[Flitto](https://www.flitto.com)** (Jan 2026 ~ Jun 2026)
+- 🏢 Interpreter & Translator at **[CJCJ](https://www.cj.co.kr/)** (Oct 2023 ~ Aug 2024)
 - 🏢 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)** (Jul 2020 ~ Oct 2023)
 - 🏫 Computer Science Undergraduate at **[Korea University](https://info.korea.edu/en_info/index.do)**
 - 🦜 Proud parent of 2 cockatiels (and a step father to a cat)
