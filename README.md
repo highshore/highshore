@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🗂 I build reliable AI agents for database systems and distributed infrastructure.
+- 🗂 I work with DB Kernels & Distributed Infrastructure
 - 🇰🇷 Based out of Seoul, South Korea
 - 🏢 Software Engineer Intern, **[SAP Labs](https://www.sap.com/korea/about/labs-korea.html)** (Jul 2026 ~ )
 - 🏢 Software Engineer Intern, **[Flitto](https://www.flitto.com)** (Jan 2026 ~ Jun 2026)
