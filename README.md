@@ -15,10 +15,11 @@
 - 🇰🇷 Based out of Seoul, South Korea
 - 🏢 Software Engineer Intern, **[SAP Labs](https://www.sap.com/korea/about/labs-korea.html)** (Jul 2026 ~ )
 - 🏢 Software Engineer Intern, **[Flitto](https://www.flitto.com)** (Jan 2026 ~ Jun 2026)
+- 🏫 Back to School at **[Korea University](https://info.korea.edu/en_info/index.do)** (Mar 2025 ~ Feb 2027)
 - 🏢 Interpreter & Translator at **[CJCJ](https://www.cj.co.kr/)** (Oct 2023 ~ Aug 2024)
 - 🏢 Interpreter & Translator at **[Sendbird](https://www.sendbird.com)** (Jul 2020 ~ Oct 2023)
 - 🏢 Interpreter & Translator at **[ROK-US Combined Forces Command](https://en.wikipedia.org/wiki/ROK/US_Combined_Forces_Command)** (Nov 2017 ~ Jun 2019)
-- 🏫 Computer Science Undergraduate at **[Korea University](https://info.korea.edu/en_info/index.do)** (Mar 2016 ~ Feb 2027)
+- 🏫 Computer Science Undergraduate at **[Korea University](https://info.korea.edu/en_info/index.do)** (Mar 2016 ~ Jun 2017)
 - 🦜 Proud parent of 2 cockatiels (and a step father to a cat)
 
 ---
